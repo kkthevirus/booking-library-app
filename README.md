@@ -3,6 +3,9 @@
 A comprehensive full-stack web application for library seat reservations and book borrowing, similar to BookMyShow's movie booking system but for libraries.
 
 ## 🚀 Features
+<a href="https://library-booking-frontend.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=google-chrome" alt="Live Demo Button"/>
+</a>
 
 ### User Features
 - **User Authentication**: Register/Login with JWT authentication
